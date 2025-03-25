@@ -2,7 +2,7 @@
 
 
 
-A custom neural network implementation to predict household solar panel adoption likelihood, designed to support **sustainable insurance products** like those offered by ASR.
+A custom neural network implementation to predict household solar panel adoption likelihood, designed to support **sustainable insurance products** .
 
 ## 🎯 Project Alignment with Insurance Company
 - Supports  **sustainable living** initiatives by identifying customers for green insurance products  
